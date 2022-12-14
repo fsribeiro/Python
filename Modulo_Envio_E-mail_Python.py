@@ -59,10 +59,6 @@ server.login(msg['From'], password)
 
 #Envio do e-mail! Foi adicionando um barra de proguesso, porém não é necessário.
 
-l = []
-
-l in range (0,100)
-
 values = range(0,10)
 
 
